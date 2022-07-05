@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jetoson
 - 👀 I’m a computer science student at Politehnica University of Bucharest.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning networking and cybersecurity in  my free time.
 - 💞️ I’m looking to collaborate on projects on Operating systems, Networking and Security Softwares.
 - 📫 You can email me at jetoson@gmail.com
 
