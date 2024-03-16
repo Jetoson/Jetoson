@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jemal</h1>
-<h3 align="center">Computer Science student from Romania</h3>
+<h3 align="center">Software Engineer from Bucharest, Romania</h3>
 
-- 🔭 I’m currently working on **My school projects**
+- 🌱 I’m currently learning **how to write clean, efficient and roboust code.**
 
-- 🌱 I’m currently learning **Programming in Java, networking and computer security**
+- 📫 How to reach me **jemalahmed406@gmail.com**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 💬 Ask me about **Network protocols, wireshark, C, Java**
-
-- 📫 How to reach me **jetoson@gmail.com**
-
-- ⚡ Fun fact **I'm smiley**
+- ⚡ Fun fact **I'm a long distance athlet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
