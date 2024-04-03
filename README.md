@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jemal</h1>
-<h3 align="center">Software Engineer from Bucharest, Romania</h3>
+<h3 align="center">Computer Science student from Bucharest, Romania</h3>
 
 - 🌱 I’m currently learning **how to write clean, efficient and roboust code.**
 
