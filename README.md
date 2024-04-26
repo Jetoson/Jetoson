@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **how to write clean, efficient and roboust code.**
 
-- 📫 How to reach me **jetoson@gmail.com**
+- 📫 How to reach me **jemalahmed406@gmail.com**
 
 - ⚡ Fun fact **I'm a long distance athlet**
 
